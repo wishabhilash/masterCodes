@@ -1,0 +1,30 @@
+<generate>
+	<function>
+		<name>Add</name>
+		<returnDT>int</returnDT>
+		<args>
+			<arg>
+				<argType>int</argType>
+				<argIdent>a</argIdent>
+			</arg>
+			<arg>
+				<argType>int</argType>
+				<argIdent>b</argIdent>
+			</arg>
+		</args>
+	</function>
+	<function>
+		<name>Subtract</name>
+		<returnDT>float</returnDT>
+		<args>
+			<arg>
+				<argType>float</argType>
+				<argIdent>a</argIdent>
+			</arg>
+			<arg>
+				<argType>float</argType>
+				<argIdent>b</argIdent>
+			</arg>
+		</args>
+	</function>
+</generate>

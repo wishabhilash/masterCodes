@@ -1,0 +1,17 @@
+[[ Size of file with duplication (in Mb) ]]
+5
+
+[[ Number of duplicates per 100 lines ]]
+50
+
+[[ Use Hashing (or B-Tree)? (true/false) ]]
+false
+
+[[ Path to generated file ]]
+/home/wish/DB3files/genfile
+
+[[ Path to output file ]]
+/home/wish/DB3files/output.txt
+
+[[ Blocks to be used (in Mb) ]]
+10

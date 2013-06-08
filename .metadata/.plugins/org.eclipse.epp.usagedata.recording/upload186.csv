@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007638674
+error,log,,,"Exception occurred in listener of Java element change notification",1353007638674
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007660697
+error,log,,,"Exception occurred in listener of Java element change notification",1353007660697
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007662352
+error,log,,,"Exception occurred in listener of Java element change notification",1353007662352
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353007662357
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007663208
+error,log,,,"Exception occurred in listener of Java element change notification",1353007663209
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007693246
+error,log,,,"Exception occurred in listener of Java element change notification",1353007693246
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007694457
+error,log,,,"Exception occurred in listener of Java element change notification",1353007694458
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007695264
+error,log,,,"Exception occurred in listener of Java element change notification",1353007695264
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007697255
+error,log,,,"Exception occurred in listener of Java element change notification",1353007697256
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007697785
+error,log,,,"Exception occurred in listener of Java element change notification",1353007697785
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007701184
+error,log,,,"Exception occurred in listener of Java element change notification",1353007701184
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007701805
+error,log,,,"Exception occurred in listener of Java element change notification",1353007701805
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007753468
+error,log,,,"Exception occurred in listener of Java element change notification",1353007753468
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007754333
+error,log,,,"Exception occurred in listener of Java element change notification",1353007754333
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007755348
+error,log,,,"Exception occurred in listener of Java element change notification",1353007755348
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1353007765665
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007766353
+error,log,,,"Exception occurred in listener of Java element change notification",1353007766354
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007767352
+error,log,,,"Exception occurred in listener of Java element change notification",1353007767352
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007767876
+error,log,,,"Exception occurred in listener of Java element change notification",1353007767876
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007768594
+error,log,,,"Exception occurred in listener of Java element change notification",1353007768595
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007769567
+error,log,,,"Exception occurred in listener of Java element change notification",1353007769568
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007770899
+error,log,,,"Exception occurred in listener of Java element change notification",1353007770900
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007773173
+error,log,,,"Exception occurred in listener of Java element change notification",1353007773173
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007774384
+error,log,,,"Exception occurred in listener of Java element change notification",1353007774384
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007774921
+error,log,,,"Exception occurred in listener of Java element change notification",1353007774922
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007776159
+error,log,,,"Exception occurred in listener of Java element change notification",1353007776159
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007777137
+error,log,,,"Exception occurred in listener of Java element change notification",1353007777137
+error,log,,,"Internal Error",1353007777372
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007777943
+error,log,,,"Exception occurred in listener of Java element change notification",1353007777944
+error,log,,,"Internal Error",1353007778081
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007778582
+error,log,,,"Exception occurred in listener of Java element change notification",1353007778583
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007779969
+error,log,,,"Exception occurred in listener of Java element change notification",1353007779970
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007781381
+error,log,,,"Exception occurred in listener of Java element change notification",1353007781382
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineEnd",1353007781405
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007781996
+error,log,,,"Exception occurred in listener of Java element change notification",1353007781996
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineEnd",1353007782055
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineStart",1353007783005
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007784305
+error,log,,,"Exception occurred in listener of Java element change notification",1353007784306
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineEnd",1353007784762
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007785021
+error,log,,,"Exception occurred in listener of Java element change notification",1353007785022
+error,log,,,"Internal Error",1353007785968
+error,log,,,"Internal Error",1353007786623
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineStart",1353007787278
+error,log,,,"Internal Error",1353007787578
+error,log,,,"Internal Error",1353007787732
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1353007788086
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineEnd",1353007788556
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007789044
+error,log,,,"Exception occurred in listener of Java element change notification",1353007789044
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineEnd",1353007789153
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007790072
+error,log,,,"Exception occurred in listener of Java element change notification",1353007790073
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007791598
+error,log,,,"Exception occurred in listener of Java element change notification",1353007791598
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1353007794234
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007794633
+error,log,,,"Exception occurred in listener of Java element change notification",1353007794634
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007795538
+error,log,,,"Exception occurred in listener of Java element change notification",1353007795539
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007796355
+error,log,,,"Exception occurred in listener of Java element change notification",1353007796355
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007797446
+error,log,,,"Exception occurred in listener of Java element change notification",1353007797447
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007797718
+error,log,,,"Exception occurred in listener of Java element change notification",1353007797719
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353007797722
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007798655
+error,log,,,"Exception occurred in listener of Java element change notification",1353007798655
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineStart",1353007848969
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007854445
+error,log,,,"Exception occurred in listener of Java element change notification",1353007854446
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1353007856442
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007856700
+error,log,,,"Exception occurred in listener of Java element change notification",1353007856700
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007857638
+error,log,,,"Exception occurred in listener of Java element change notification",1353007857638
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007858352
+error,log,,,"Exception occurred in listener of Java element change notification",1353007858352
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353007858357
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007859233
+error,log,,,"Exception occurred in listener of Java element change notification",1353007859233
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.select.lineStart",1353007859590
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1353007860152
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1353007864457
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007864848
+error,log,,,"Exception occurred in listener of Java element change notification",1353007864848
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353007864853
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007865756
+error,log,,,"Exception occurred in listener of Java element change notification",1353007865757
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1353007891153
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1353007901902
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineEnd",1353007909471
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007935668
+error,log,,,"Exception occurred in listener of Java element change notification",1353007935668
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007936801
+error,log,,,"Exception occurred in listener of Java element change notification",1353007936801
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007936835
+error,log,,,"Exception occurred in listener of Java element change notification",1353007936835
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353007936839
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353007937821
+error,log,,,"Exception occurred in listener of Java element change notification",1353007937821
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineEnd",1353008018274
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1353008020348
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008020870
+error,log,,,"Exception occurred in listener of Java element change notification",1353008020871
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1353008021427
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1353008021751
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008022240
+error,log,,,"Exception occurred in listener of Java element change notification",1353008022240
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1353008022465
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008023022
+error,log,,,"Exception occurred in listener of Java element change notification",1353008023022
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1353008023379
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1353008023797
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008024386
+error,log,,,"Exception occurred in listener of Java element change notification",1353008024386
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008024709
+error,log,,,"Exception occurred in listener of Java element change notification",1353008024709
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353008024715
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008025406
+error,log,,,"Exception occurred in listener of Java element change notification",1353008025406
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.redo",1353008069875
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.redo",1353008070200
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.redo",1353008070308
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.redo",1353008070452
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.redo",1353008070638
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008071221
+error,log,,,"Exception occurred in listener of Java element change notification",1353008071221
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.redo",1353008071329
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008071828
+error,log,,,"Exception occurred in listener of Java element change notification",1353008071829
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008072445
+error,log,,,"Exception occurred in listener of Java element change notification",1353008072445
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008072662
+error,log,,,"Exception occurred in listener of Java element change notification",1353008072663
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353008072666
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008073467
+error,log,,,"Exception occurred in listener of Java element change notification",1353008073467
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008077268
+error,log,,,"Exception occurred in listener of Java element change notification",1353008077269
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008078001
+error,log,,,"Exception occurred in listener of Java element change notification",1353008078001
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008079023
+error,log,,,"Exception occurred in listener of Java element change notification",1353008079024
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008080570
+error,log,,,"Exception occurred in listener of Java element change notification",1353008080570
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1353008080946
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008081969
+error,log,,,"Exception occurred in listener of Java element change notification",1353008081969
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008082981
+error,log,,,"Exception occurred in listener of Java element change notification",1353008082982
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008084396
+error,log,,,"Exception occurred in listener of Java element change notification",1353008084396
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353008084400
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineStart",1353008085314
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008085581
+error,log,,,"Exception occurred in listener of Java element change notification",1353008085582
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1353008087623
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1353008091493
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008091803
+error,log,,,"Exception occurred in listener of Java element change notification",1353008091803
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353008091806
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008092606
+error,log,,,"Exception occurred in listener of Java element change notification",1353008092606
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineStart",1353008094173
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineEnd",1353008099992
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineStart",1353008100436
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineEnd",1353008123255
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008124914
+error,log,,,"Exception occurred in listener of Java element change notification",1353008124915
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008126427
+error,log,,,"Exception occurred in listener of Java element change notification",1353008126428
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353008126434
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008127141
+error,log,,,"Exception occurred in listener of Java element change notification",1353008127141
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008132040
+error,log,,,"Exception occurred in listener of Java element change notification",1353008132040
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353008132046
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008133164
+error,log,,,"Exception occurred in listener of Java element change notification",1353008133164
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.delete.line",1353008175153
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008175705
+error,log,,,"Exception occurred in listener of Java element change notification",1353008175705
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.delete.line",1353008177351
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.delete.line",1353008177527
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.delete.line",1353008177694
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.delete.line",1353008177811
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.delete.line",1353008178123
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008178428
+error,log,,,"Exception occurred in listener of Java element change notification",1353008178428
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353008178432
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.core"".",1353008179233
+error,log,,,"Exception occurred in listener of Java element change notification",1353008179233
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1353008213056
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1353008237741
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1353008254197
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1353008261020
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1353008261695
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1353008273005
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1353008283149
+opened,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1353008283341
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1353008283394
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1353008283424
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1353008284200
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.goto.lineStart",1353008285330
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.edit.text.select.lineEnd",1353008285734
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1353008288425
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1353008288712
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1353008295541
+opened,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1353008295742
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1353008295780
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1353008295815
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1353008296671
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1353008299904
+closed,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1353008299906
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.close",1353008299916
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1353008301840
+opened,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1353008302008

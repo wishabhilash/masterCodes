@@ -1,0 +1,18 @@
+1. Sender sends message "0123456789" which receiver receives and prints in its terminal.
+    Reciever replies message "abcdefghij" which the sender receives and prints in its terminal.
+    
+2. Both sender and receiver keeps on running infinitely without anyone receiving a message.
+
+3. On sending message more than 10 bits, server receives only the first 10 bits of message.
+
+4. On setting timeout of 5 seconds, the server throws SocketTimeoutException and exits.
+
+5. The receiver receives both the messages.
+
+6. Both the receivers receive the message. Receiver ports: 9090, 9000.
+
+7. One socket received the message while the other one kept running since both the receivers exited before the 2nd socket could fire.
+
+8. The sender and receivers receive messages at an interval of 3 seconds.
+
+9. The code itself is a two way communication since the beginning as we can see in answer 1.

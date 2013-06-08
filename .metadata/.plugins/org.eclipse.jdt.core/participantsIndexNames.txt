@@ -1,0 +1,7 @@
+INDEX VERSION 1.126
+/home/wish/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2784376274.index
+/MiddlewareProj/src
+/home/wish/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1732973914.index
+/MiddlewareProj/src
+/home/wish/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3178996299.index
+/MiddlewareProj/src

@@ -1,0 +1,33 @@
+01:19:10 **** Incremental Build of configuration Debug for project CPPTests ****
+make all 
+Building file: ../src/IPC.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -pthread -MMD -MP -MF"src/IPC.d" -MT"src/IPC.d" -o "src/IPC.o" "../src/IPC.cpp"
+Finished building: ../src/IPC.cpp
+ 
+Building target: CPPTests
+Invoking: GCC C++ Linker
+g++  -o "CPPTests"  ./src/CPPTests.o ./src/IPC.o   -lpthread
+Finished building target: CPPTests
+ 
+01:19:12 **** Incremental Build of configuration Debug for project CPPTests ****
+make all 
+make: Nothing to be done for `all'.
+20:28:22 **** Build of configuration Debug for project CPPTests ****
+make all 
+make: Nothing to be done for `all'.
+20:28:50 **** Incremental Build of configuration Debug for project CPPTests ****
+make all 
+make: Nothing to be done for `all'.
+20:37:50 **** Build of configuration Debug for project CPPTests ****
+make all 
+make: Nothing to be done for `all'.
+
+Invoking autoreconf in build directory: /home/wish/workspace/OpenNIProj
+
+sh -c "autoreconf -i" 
+sh: 1: autoreconf: not found
+
+Configuration failed with error
+Build stopped
+()

@@ -1,0 +1,56 @@
+@CHARSET "UTF-8";
+*{
+	padding: 0;
+	margin: 0;
+	color: #fff;
+	font-family:Ubuntu;
+}
+
+html
+{
+	background-color: #4C8AD5;//#f9f9f9;
+}
+
+#wrapper
+{
+	width: 980px;
+	margin: auto;
+/*
+	background-color: #FFFFFF;
+*/
+	background-attachment: fixed;
+}
+
+#head{
+	height:100px;
+	background-color:#406DA2;
+	font-size:50px;
+	font-weight:bold;
+	border-radius: 0 0 20px 20px;
+   -moz-border-radius: 0 0 20px 20px;
+   -webkit-border-radius: 0 0 20px 20px;
+}
+
+.auto-margin{ margin:auto }
+
+#id-submit{
+	font-size:16px;
+	font-weight:bold;
+	color:#406DA2;
+	height:40px;
+	cursor:pointer;
+	margin:10px 0 125px 0;
+	border-radius: 5px 5px 5px 5px;
+   -moz-border-radius: 5px 5px 5px 5px;
+   -webkit-border-radius: 5px 5px 5px 5px;
+}
+
+.text-box{
+	height:30px;
+	color:#406DA2;
+	font-weight:bold;
+	border-radius: 5px 5px 5px 5px;
+   -moz-border-radius: 5px 5px 5px 5px;
+   -webkit-border-radius: 5px 5px 5px 5px;
+}
+select, option{ color:#406DA2 }

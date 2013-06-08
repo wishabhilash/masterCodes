@@ -1,0 +1,15 @@
+Files description:
+	com.ass.client : This contains the Stub generator and the generated stubs.
+	com.ass.client : This contains the servlet app.
+	com.ass.services : This contains the dynamic services.
+
+Software requirements:
+	1. Apache Tomcat 7
+	2. Servlet v3
+	3. Eclipse
+
+Instructions:
+	1. Open project using ECLIPSE.
+	2. com.ass.server.Skeleton -> Run on server.
+	3. com.ass.client.StubGen -> Run as Application. [ This will generate the required stub files in com.ass.client ]
+	4. com.ass.client.[some]Stub -> Run as Application.

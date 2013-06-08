@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/activemq-all-5.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/contList.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple-1.5.11.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

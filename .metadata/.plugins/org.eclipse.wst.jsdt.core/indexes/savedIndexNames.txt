@@ -1,0 +1,10 @@
+INDEX VERSION 1.122+/home/wish/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4017627389.index
+3688134205.index
+204801348.index
+2544886281.index
+4268491446.index
+668853454.index
+2924317144.index
+769391805.index
+1169220510.index

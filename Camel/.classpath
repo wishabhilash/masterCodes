@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-6-openjdk-amd64"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/activemq-all-5.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/camel-amqp-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/camel-context-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/camel-core-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/camel-jms-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/org.springframework.beans-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/org.springframework.context.support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/org.springframework.context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/org.springframework.core-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/slf4j-api-1.5.11.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/slf4j-simple-1.5.11.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/org.springframework.transaction-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/org.springframework.jms-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/commons-logging-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/activemq-pool-5.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/jms_message.jar"/>
+	<classpathentry kind="lib" path="/home/wish/workspace/Camel/lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

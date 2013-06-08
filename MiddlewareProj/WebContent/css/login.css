@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+@import "base.css";
+
+#login-box{
+	margin:auto;
+	margin-top:200px;
+	height:200px;
+	width:350px;
+	font-weight:bold;
+	background-color:#406DA2;
+	border-radius: 10px 10px 10px 10px;
+   -moz-border-radius: 10px 10px 10px 10px;
+   -webkit-border-radius: 10px 10px 10px 10px;
+}
+
+#id-form-space{
+	height:30px;
+	color:red;
+	font-weight:bold;
+}
+
+.text-box{
+	width:200px;
+}

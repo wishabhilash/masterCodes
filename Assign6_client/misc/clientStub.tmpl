@@ -1,0 +1,85 @@
+package com.ass.client;
+
+import java.io.*;
+import java.net.*;
+import com.ass.util.*;
+
+public class [[ funcName ]]Stub {
+
+	/**
+	 * @param args
+	 */
+	URL url = null;
+	String postData = "";
+	HttpURLConnection conn = null;
+	BufferedReader reader = null;
+	DataOutputStream writer = null;
+	
+	/*public static void main(String[] args) throws Exception{
+		// TODO Auto-generated method stub
+		[[ funcName ]]Stub tc = new [[ funcName ]]Stub();
+		System.out.println(tc.[[ funcName ]]());
+	}*/
+	
+	public String [[ funcName ]]([[ params ]]) throws Exception{
+		SocketClient nsConn = new SocketClient();
+		nsConn.sendMessage("Look| [[ funcName ]]");
+		String urlAddress = nsConn.readMessage();
+		nsConn.closeConnection();
+		
+		
+		//	Create POST data
+		postData = "msg=" + URLEncoder.encode([[ postData ]], "UTF-8");
+		
+		
+		StringBuilder msg = new StringBuilder();
+		try{
+			
+			// Connect to the URL for transaction
+			connectToUrl(urlAddress, "POST");
+			
+			// Write message
+			sendMessage(postData);
+			
+			// Recieve message
+			msg = recieveMessage();
+			
+		}catch (Exception e){
+			e.printStackTrace();
+		}
+		finally{
+			closeAll();
+		}
+		
+		return msg.toString();
+		
+	}
+	
+	void closeAll() throws IOException{
+		conn.disconnect();
+	}
+	
+	void connectToUrl(String urlAddr, String method) throws MalformedURLException, IOException{
+		url = new URL(urlAddr);
+		conn = (HttpURLConnection)url.openConnection();
+		conn.setRequestMethod(method);
+		conn.setDoOutput(true);
+		conn.connect();
+	}
+	
+	
+	void sendMessage(String msg) throws IOException{
+		writer = new DataOutputStream(conn.getOutputStream());
+		writer.writeBytes(msg);
+		writer.flush();
+	}
+	
+	StringBuilder recieveMessage() throws IOException{
+		reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+		StringBuilder str = new StringBuilder();
+		String line = "";
+		while((line = reader.readLine()) != null) str.append(line);
+		return str;
+	}
+
+}

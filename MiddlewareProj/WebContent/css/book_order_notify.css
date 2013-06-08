@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+@import "base.css";
+
+#id-submit{
+	width:60px;
+}
+
+.text-box{
+	width:300px;
+}

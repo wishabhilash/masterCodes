@@ -1,0 +1,4 @@
+double first(int i,double j,String k,String p)
+String lol()
+int hey(int p)
+int foo(int i,double j,String k)
